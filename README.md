@@ -4,7 +4,7 @@
 ⚛️ React Developer (🚧 under construction)
 ------------------------------------------
 
-Even I've started early in programming, my long commercial experience, plus Linguistics studies, allow me to address projects and relations with end-users at ease.
+Even I've started a couple of years ago in programming, my long commercial experience, plus Linguistics studies, allow me to address projects and relations with end-users at ease.
 
 * 🌍  I'm based in Lima 🇵🇪
 * 🖥️  See my portfolio at [my webpage](http://gonzalopalacios.com/projects)
