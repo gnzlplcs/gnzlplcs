@@ -1,4 +1,4 @@
-# Hi 👋 My name is Gonzalo Palacios
+Hi 👋 My name is Gonzalo Palacios
 =================================
 
 ⚛️ React Developer (🚧 under construction)
