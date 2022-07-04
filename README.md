@@ -7,7 +7,7 @@ Hi 👋 My name is Gonzalo Palacios
 Even I've started a couple of years ago in programming, my long commercial experience, plus Linguistics studies, allow me to address projects and relations with end-users at ease.
 
 * 🌍  I'm based in Lima 🇵🇪
-* 🖥️  See my portfolio at [my webpage](http://gonzalopalacios.com/projects)
+* 🖥️  See my portfolio at [my webpage](https://gonzalopalacios.com/projects)
 * ✉️  You can contact me at [hello@gonzalopalacios.com](mailto:hello@gonzalopalacios.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on React frontend projects
