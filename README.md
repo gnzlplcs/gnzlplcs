@@ -1,7 +1,7 @@
-Hi 👋 My name is Gonzalo Palacios
+Hi there! 👋 I'm Gonzalo Palacios
 =================================
 
-⚛️ React Developer (🚧 under construction)
+Front-end Dev ⚛️ React JS
 ------------------------------------------
 
 Even I've started a couple of years ago in programming, my long commercial experience, plus Linguistics studies, allow me to address projects and relations with end-users at ease.
@@ -9,9 +9,9 @@ Even I've started a couple of years ago in programming, my long commercial exper
 * 🌍  I'm based in Lima 🇵🇪
 * 🖥️  See my portfolio at [my webpage](https://gonzalopalacios.com/portfolio)
 * ✉️  You can contact me at [hello@gonzalopalacios.com](mailto:hello@gonzalopalacios.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on React frontend projects
-* ⚡  Fun fact: I like so much Harry Potter and all related content
+* 🧠  I'm learning React JS & Vue JS
+* 🤝  I'm open to collaborating on React & Vue projects
+* ⚡  Fun fact: I like so much Harry Potter and everything about it
 
 <a href="https://www.twitter.com/gnzlplcs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/gnzlplcs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
