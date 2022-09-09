@@ -4,13 +4,13 @@ Hi there! 👋 I'm Gonzalo Palacios
 Front-end Dev ⚛️ React JS
 ------------------------------------------
 
-Even I've started a couple of years ago in programming, my long commercial experience, plus Linguistics studies, allow me to address projects and relations with end-users at ease.
+I've just started as a Front-end Dev Intern at [SkyIT Services](https://skyit.services/). I-m open to contribute to Front-end projects and related contents.
 
 * 🌍  I'm based in Lima 🇵🇪
 * 🖥️  See my portfolio at [my webpage](https://gonzalopalacios.com/portfolio)
 * ✉️  You can contact me at [hello@gonzalopalacios.com](mailto:hello@gonzalopalacios.com)
-* 🧠  I'm learning React JS & Vue JS
-* 🤝  I'm open to collaborating on React & Vue projects
+* 🧠  I'm learning React JS, Vue JS & Next JS
+* 🤝  I'm open to collaborating on Next JS projects
 * ⚡  Fun fact: I like so much Harry Potter and everything about it
 
 <a href="https://www.twitter.com/gnzlplcs" target="_blank" rel="noreferrer"><img
