@@ -4,7 +4,7 @@ Hi there! 👋 I'm Gonzalo Palacios
 Front-end Dev ⚛️ React JS
 ------------------------------------------
 
-I've just started as a Front-end Dev Intern at [SkyIT Services](https://skyit.services/). I'm open to contribute to Front-end projects and related contents.
+I'm open to contribute to Front-end projects and related contents.
 
 * 🌍  I'm based in Lima 🇵🇪
 * 🖥️  See my portfolio at [my webpage](https://gonzalopalacios.com/portfolio)
