@@ -1,7 +1,7 @@
 Hi there! 👋 I'm Gonzalo Palacios
 =================================
 
-Front-end Dev | React JS | TypeScript | Tailwind CSS
+Front-end Dev | React JS | TypeScript 
 ------------------------------------------
 
 I'm open to contribute to Front-end projects and related contents.
@@ -9,7 +9,7 @@ I'm open to contribute to Front-end projects and related contents.
 * 🌍  I'm based in Lima 🇵🇪
 * 🖥️  See my portfolio at [my webpage](https://gonzalopalacios.com/portfolio)
 * ✉️  You can contact me at [hello@gonzalopalacios.com](mailto:hello@gonzalopalacios.com)
-* 🧠  I'm learning Vue JS and Next JS
+* 🧠  I'm learning Tailwind CSS, Vue JS and Next JS
 * 🤝  I'm open to collaborating on React JS projects
 * ⚡  Fun fact: I like so much Harry Potter and everything about it
 
