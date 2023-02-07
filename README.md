@@ -1,10 +1,10 @@
 Hi there! 👋 I'm Gonzalo Palacios
 =================================
 
-Front-end Dev | React JS | TypeScript
+Web Frontend Developer | React JS | TypeScript
 ------------------------------------------
 
-I'm open to contribute to Front-end projects and related contents.
+I'm open to contribute to Frontend projects and related contents.
 
 * 🌍  I'm based in Lima 🇵🇪
 * 🖥️  See my portfolio at [my webpage](https://gonzalopalacios.com/portfolio)
