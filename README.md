@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Gonzalo Palacios
+Hi there! 👾 I'm Gonzalo Palacios
 =================================
 
 Web Frontend Developer | React JS | TypeScript
