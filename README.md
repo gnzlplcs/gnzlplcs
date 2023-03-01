@@ -10,7 +10,7 @@ I'm open to contribute to Frontend projects and related contents.
 * 🖥️  See my portfolio at [gonzalopalacios.com](https://gonzalopalacios.com/portfolio)
 * ✉️  You can contact me at [hello@gonzalopalacios.com](mailto:hello@gonzalopalacios.com)
 * 🧠  I'm learning Tailwind CSS, Vue JS and Next JS
-* 🤝  I'm open to collaborating on React JS projects
+* 🤝  I'm open to collaborating on React JS ans CSS projects
 * ⚡  Fun fact: I like so much Harry Potter and everything about it
 
 <a href="https://www.twitter.com/gnzlplcs" target="_blank" rel="noreferrer"><img
