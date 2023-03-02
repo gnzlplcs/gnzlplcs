@@ -1,7 +1,7 @@
 Hi there! 👾 I'm Gonzalo Palacios
 =================================
 
-Web Frontend Developer | React JS | TypeScript ! Figma
+Web Frontend Developer | React JS | TypeScript | Figma
 ------------------------------------------
 
 I'm open to contribute to Frontend projects and related contents.
