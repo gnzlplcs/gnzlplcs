@@ -7,7 +7,7 @@ Web Frontend Developer | React JS | TypeScript | Figma
 I'm open to contribute to Frontend projects and related contents.
 
 * 🌍  I'm based in Lima 🇵🇪
-* 🖥️  See my portfolio at [gonzalopalacios.com](https://gonzalopalacios.com/portfolio)
+* 🖥️  See my portfolio at [gonzalopalacios.com/portfolio](https://gonzalopalacios.com/portfolio)
 * ✉️  You can contact me at [hello@gonzalopalacios.com](mailto:hello@gonzalopalacios.com)
 * 🧠  I'm learning Tailwind CSS, Vue JS and Next JS
 * 🤝  I'm open to collaborating on React JS ans CSS projects
