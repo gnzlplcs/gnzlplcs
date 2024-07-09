@@ -1,15 +1,15 @@
 Hi there! 👾 I'm Gonzalo Palacios
 =================================
 
-Web Frontend Developer | React JS | TypeScript | Figma
+Web Frontend Developer | React JS | Aspiring Data Analyst 
 ------------------------------------------
 
 I'm open to contribute to Frontend projects and related contents.
 
 * 🌍  I'm based in Lima 🇵🇪
-* 🖥️  See my portfolio at [gonzalopalacios.com/portfolio](https://gonzalopalacios.com/portfolio)
-* ✉️  You can contact me at [hello@gonzalopalacios.com](mailto:hello@gonzalopalacios.com)
-* 🧠  I'm learning Tailwind CSS, Vue JS and Next JS
+* 🖥️  See my portfolio at [gnzlplcs.github.io](https://gnzlplcs.github.io/)
+* ✉️  You can contact me at [pal20023@byui.edu](mailto:pal20023@byui.edu)
+* 🧠  I'm learning Data Analytics
 * 🤝  I'm open to collaborating on React JS ans CSS projects
 * ⚡  Fun fact: I like so much Harry Potter and everything about it
 
