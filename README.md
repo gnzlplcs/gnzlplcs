@@ -8,9 +8,9 @@ I'm open to contribute to Frontend projects and related contents.
 
 * 🌍  I'm based in Lima 🇵🇪
 * 🖥️  See my portfolio at [gnzlplcs.github.io](https://gnzlplcs.github.io/)
-* ✉️  You can contact me at [pal20023@byui.edu](mailto:pal20023@byui.edu)
+* ✉️  You can contact me at [palaciosgm@outlook.com](mailto:palaciosgm@outlook.com)
 * 🧠  I'm learning Data Analytics
-* 🤝  I'm open to collaborating on React JS ans CSS projects
+* 🤝  I'm open to collaborating on Data Analyst
 * ⚡  Fun fact: I like so much Harry Potter and everything about it
 
 <a href="https://www.twitter.com/gnzlplcs" target="_blank" rel="noreferrer"><img
