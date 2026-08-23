@@ -1,7 +1,7 @@
 Hi there! 📊 I'm Gonzalo Palacios
 =================================
  
-Continuous Improvement Analyst | Data Analyst in progress | Excel • Power BI • Python
+Continuous Improvement Analyst | Data Analyst | Excel • Power BI • Python
 ------------------------------------------
  
 I work in Continuous Improvement / Business Analysis for a healthcare BPO account, building reporting systems and automating processes with Excel, Power Query/Power Pivot, Power BI, and Python. Background in Frontend Development (JavaScript, React) that I'm now channeling into data analytics. 
